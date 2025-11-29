@@ -28,8 +28,8 @@ export const FEATURES: Feature[] = [
   },
   {
     id: 'focus-prod',
-    title: 'Focus & Productivity',
-    description: 'Boosts your productivity with smart focus timers.',
+    title: 'Care Assistance',
+    description: 'Get instant help for child care, skin & hair care, fitness, wellness, and first-aid support.',
     icon: Headphones,
     color: 'bg-blue-100 text-blue-600'
   },
