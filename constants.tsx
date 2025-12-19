@@ -83,15 +83,14 @@ export const TEAM_MEMBERS: TeamMember[] = [
     email: 'mohamedsilar26@gmail.com',
     role: 'Founder & Developer',
     linkedin: 'https://www.linkedin.com/in/mohamed-silar-374a09284/',
-    image: '/assets/SILAR.jpeg'
+    image: '/assets/SILAR.jpeg'   // 👈 REAL IMAGE
   },
   {
     name: 'Shanmuga Priya AR',
     email: 'shanmugapriyaar0@gmail.com',
     role: 'Co-Founder & Developer',
     linkedin: 'https://www.linkedin.com/in/shanmugapriya-ar/',
-     image: '/assets/PRIYA.png'
-    
+    image: '/assets/PRIYA.png'    // 👈 REAL IMAGE
   }
 ];
 
