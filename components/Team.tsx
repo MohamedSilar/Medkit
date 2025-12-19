@@ -22,15 +22,16 @@ const Team: React.FC = () => {
             >
               <div className="flex flex-col items-center text-center h-full">
 
-                {/* --- PROFILE IMAGE ADDED HERE --- */}
+                {/* --- PROFILE IMAGE --- */}
                 {member.image ? (
                   <img
                     src={member.image}
                     alt={member.name}
-                    className="w-24 h-24 rounded-full object-cover mb-6 shadow-md"
+                    className="w-28 h-28 rounded-full object-cover object-top mb-6 shadow-md 
+                    transition-transform duration-300 group-hover:scale-105"
                   />
                 ) : (
-                  <div className="w-24 h-24 rounded-full bg-gradient-to-br from-teal-100 to-blue-100 
+                  <div className="w-28 h-28 rounded-full bg-gradient-to-br from-teal-100 to-blue-100 
                     flex items-center justify-center text-teal-700 text-2xl font-bold mb-6 shadow-inner">
                     {member.name.split(' ').map(n => n[0]).join('').substring(0, 2)}
                   </div>
