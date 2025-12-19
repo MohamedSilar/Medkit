@@ -6,7 +6,7 @@
 
 ---
 
-## Team & Institution
+## Team 
 - **Team Name:** TryCatchUs  
 - **Bot Name:** MedKit
 
