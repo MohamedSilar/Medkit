@@ -81,7 +81,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Mohamed Silar M',
     email: 'mohamedsilar26@gmail.com',
-    role: 'Co-Founder & Developer',
+    role: 'Founder & Developer',
     linkedin: 'https://www.linkedin.com/in/mohamed-silar-374a09284/'
   },
   {
