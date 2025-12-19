@@ -190,7 +190,7 @@ MedKit is built for:
 
 ## Contact 📬  
 
-- **Email:** mohamedsilar@gmail.com  
+- **Email:** mohamedsilar26@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/mohamed-silar  
 - **GitHub:** https://github.com/MohamedSilar  
 
