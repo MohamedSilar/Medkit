@@ -147,7 +147,11 @@ MedKit is built for:
 ### News, Weather & Location
 - **GNews API** – Health news updates  
 - **OpenWeatherMap API** – Weather alerts  
-- **OpenStreetMap API** – Nearby hospitals & locations  
+- **OpenStreetMap API** – Nearby hospitals & locations
+
+### Authentication & Verification
+- **Zoho PhoneBridge / Telephony API** – Voice OTP (Phone Call OTP)
+- **Zoho Mail API** – Email OTP verification
 
 ### Knowledge & Utilities
 - **Wikipedia REST API** – Medical & general info  
